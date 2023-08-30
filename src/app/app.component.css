@@ -1,0 +1,9 @@
+.mat-toolbar {
+    background-color: #2196F3;
+    color: white;
+    justify-content: space-between;
+  }
+
+  .content{
+    padding: 32px;
+  }
